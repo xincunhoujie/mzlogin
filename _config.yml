@@ -11,7 +11,7 @@ keywords: 后街男孩
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2025
+since: 2024
 # 源码仓库，请替换成自己的
 repository: mzlogin/mzlogin.github.io
 #repository: xincunhoujie/mzlogin
