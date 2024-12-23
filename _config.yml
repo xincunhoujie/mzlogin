@@ -2,7 +2,7 @@ n# ---------------- #
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: 
+url: https://xincunhoujie.github.io/mzlogin/
 date_format: "ordinal"
 title: 后街男孩
 subtitle: "这是一个怎样的世界啊！"
@@ -58,7 +58,7 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: 后街男孩
 organization: 
 organization_url: 
 github_username: mzlogin
